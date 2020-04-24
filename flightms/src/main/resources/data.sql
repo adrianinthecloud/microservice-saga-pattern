@@ -1,0 +1,1 @@
+insert into flight(id, name, flight_num, available_seats) values (1, 'CSAIR', 'CZ325', 100);

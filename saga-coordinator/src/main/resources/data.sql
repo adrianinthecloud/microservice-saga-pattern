@@ -1,0 +1,1 @@
+insert into event_status (id, name) values (1, "CREATED"), (2, "PENDING"), (3, "APPROVED"), (4, "ABORT");
